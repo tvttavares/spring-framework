@@ -99,4 +99,12 @@ public class Publisher {
     public void setZip(String zip) {
         this.zip = zip;
     }
+
+    public Set<Book> getBooks() {
+        return books;
+    }
+
+    public void setBooks(Set<Book> books) {
+        this.books = books;
+    }
 }

@@ -3,7 +3,7 @@ package guru.springframework.di.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class SetterInjectedGreetingService implements GreetingService{
+public class SetterInjectedGreetingService implements GreetingService {
     @Override
     public String sayGreeting() {
         return "Hello World - Setter";

@@ -1,4 +1,6 @@
-package guru.springframework.di.config;
+package guru.springframework.di.repository;
 
-public class EnglishGreetingRepository {
+public interface EnglishGreetingRepository {
+
+    String getGreeting();
 }

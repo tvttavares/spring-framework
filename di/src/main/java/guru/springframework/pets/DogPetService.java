@@ -1,6 +1,5 @@
-package guru.springframework.di.service;
+package guru.springframework.pets;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

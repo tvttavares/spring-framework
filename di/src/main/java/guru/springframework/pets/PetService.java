@@ -1,4 +1,4 @@
-package guru.springframework.di.service;
+package guru.springframework.pets;
 
 public interface PetService {
 

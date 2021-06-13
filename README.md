@@ -11,3 +11,6 @@
 
 4.  [jokes-app](https://github.com/tvttavares/spring-framework-guru/tree/master/jokes-app)
     * Spring MVC Chuck Norris Jokes App
+
+5.  [recipe-app](https://github.com/tvttavares/spring-framework-guru/tree/master/recipe-app)
+    * Spring Recipe APP
